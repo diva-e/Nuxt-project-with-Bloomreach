@@ -4,7 +4,7 @@ This repository provides a template for Nuxt.js web projects containing content 
 
 ## CMS Setup
 You can use your own account or the officially available public developer environment to access the Bloomreach Experience Manager.  
-From the public environment you can log in to test this setup with the information provided via the link [Public_Environment](https://documentation.bloomreach.com/content/docs/log-in-to-the-developer-environment).
+From the public environment you can log in to test this setup with the information provided via the link to the [public environment](https://documentation.bloomreach.com/content/docs/log-in-to-the-developer-environment).
 
 After login fulfill the following steps:  
 1. create a channel in the Experience Manager section and give it a name, f.ex. "example-channel"
