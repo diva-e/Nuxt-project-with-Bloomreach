@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+console.log('sind drin')
+
 const {execSync} = require('child_process');
 
 const runCommand = command => {
