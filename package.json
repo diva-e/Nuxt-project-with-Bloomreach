@@ -1,6 +1,6 @@
 {
   "name": "bloomreach-with-nuxt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a template for Nuxt.js web projects containing content to be generated from the Bloomreach CMS",
   "author": "Julius Lewin Vincent Schultz",
   "main": "index.js",
