@@ -3,13 +3,10 @@
 This repository provides a template for Nuxt.js web projects containing content to be generated from the Bloomreach CMS.
 
 ## CMS Setup
-You can use your own account or the officially available public developer environment to access the Bloomreach Experience Manager. See the [Documentation](https://documentation.bloomreach.com/content/docs/log-in-to-the-developer-environment) for details.
+You can use your own account or the officially available public developer environment to access the Bloomreach Experience Manager.  
+From the public environment you can log in to test this setup with the information provided via the link [Documentation](https://documentation.bloomreach.com/content/docs/log-in-to-the-developer-environment).
 
-You can login to test this setup via the link https://developers.bloomreach.io/cms/?0 with the following credentials:
-
-Username: bloomreach.trial+user01@gmail.com  
-Password: z]N76}3vQRX7y8mt
-
+After login fulfill the following steps:  
 1. create a channel in the Experience Manager section and give it a name, f.ex. "example-channel"
 2. create a project in the project section by entering a project name and ticking "development project".
 3. add the channel to it
