@@ -2,7 +2,7 @@
   "name": "bloomreach-with-nuxt",
   "version": "1.1.9",
   "description": "a template for Nuxt.js web projects containing content to be generated from the Bloomreach CMS",
-  "bin": "~/bin/cli.js",
+  "bin": "cli.js",
   "author": "Julius Lewin Vincent Schultz",
   "main": "_.vue",
   "license": "MIT",
