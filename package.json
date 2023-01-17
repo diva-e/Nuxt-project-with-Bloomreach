@@ -6,7 +6,6 @@
     "bloomreach-with-nuxt": "cli.js"
   },
   "author": "Julius Lewin Vincent Schultz",
-  "main": "_.vue",
   "license": "MIT",
   "repository": {
     "type": "git",

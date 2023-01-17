@@ -1,5 +1,5 @@
 # Nuxt.js project connected to Bloomreach CMS
-| [Powered by diva-e](https://www.diva-e.com)
+[Powered by diva-e](https://www.diva-e.com)
 
 This repository provides a template for Nuxt.js web projects containing content to be generated from the Bloomreach CMS.
 
