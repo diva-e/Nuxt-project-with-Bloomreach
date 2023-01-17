@@ -1,7 +1,4 @@
 #!/usr/bin/env node
-
-console.log('cli.js file executed')
-
 const {execSync} = require('child_process');
 
 const runCommand = command => {
