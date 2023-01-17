@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-console.log('sind drin')
+console.log('cli.js file executed')
 
 const {execSync} = require('child_process');
 
