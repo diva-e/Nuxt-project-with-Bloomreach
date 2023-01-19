@@ -15,7 +15,7 @@ From the public environment you can log in to test this setup with the informati
 
 After login fulfill the following steps:  
 1. create a channel in the Experience Manager section and give it a name, f.ex. "example-channel"
-2. create a project in the project section by entering a project name and ticking "development project".
+2. create a project in the project section by entering a project name and ticking "development project" and after that also "Includes content type changes".
 3. add the channel to it
 4. clicking on the settings wheel in the project section next to channel name leads to the project settings. Change the project frontend url to the url where the app is currently running, f.ex. http://localhost:3000/
 5. add the site configuration for your components to your project. You can do that using the Components menu in the Site development(beta) section. F.ex. add the site configuration for the BrBanner like this  

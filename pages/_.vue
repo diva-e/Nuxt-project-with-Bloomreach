@@ -10,6 +10,7 @@
 
 <script>
 import BrBanner from '~/components/BrBanner';
+import BrComponent from '~/components/BrComponent';
 import axios from "axios";
 import { ref } from 'vue';
 
@@ -27,7 +28,7 @@ export default {
       endpoint: `https://${accountName}/delivery/site/v1/channels/${channelName}/pages`,
       httpClient: axios,
     })
-    const mapping = ref({ BrBanner })
+    const mapping = ref({ BrBanner, BrComponent })
 
     return {
       configuration,
